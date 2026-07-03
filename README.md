@@ -1,6 +1,6 @@
 # Actividad 1
 
-Proyecto de ejercicios prácticos de HTML, CSS y JavaScript.
+Proyecto de ejercicios prácticos de HTML, CSS y JavaScript. Fui comprendiendo poco a poco como usar html, css y js, yendo desde algo super sencillo un html con Hola mundo, sin ocupar css o js, hasta ya algo mas complejo donde se manejo un evento o se aplicaron diversos estilos para mejorar la página visualmente.
 
 ## Contenido
 

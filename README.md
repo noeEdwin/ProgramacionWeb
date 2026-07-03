@@ -8,14 +8,14 @@ Proyecto de ejercicios prácticos de HTML, CSS y JavaScript.
 |-----------|------|
 | 1 | Hola Mundo |
 | 2 | Formato de texto |
-| 3 | Listas |
-| 4 | Enlaces e imágenes |
-| 5 | Tablas |
-| 6 | Formularios |
-| 7 | Formularios avanzados |
-| 8 | CSS básico |
-| 9 | CSS intermedio |
-| 10 | Convertidor Celsius a Fahrenheit (JS) |
+| 3 | Enlaces |
+| 4 | Naturaleza |
+| 5 | Mi Blog Personal |
+| 6 | Secciones |
+| 7 | Receta de Tacos |
+| 8 | Horario De Clases |
+| 9 | Formulario de Consulta |
+| 10 | Convertidor Celsius a Fahrenheit |
 
 ## Estructura
 

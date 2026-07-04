@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 15 - Estudiantes</title>
+    <link rel="stylesheet" href="css/ejercicio15.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Estudiantes</h1>
+        <div id="errorMsg" class="error-message"></div>
+        <div class="form-group">
+            <label for="name">Nombre de estudiante:</label>
+            <input type="text" id="name" placeholder="Ingrese el nombre del estudiante">
+            <label for="grade">Calificación del estudiante:</label>
+            <input type="text" id="grade" placeholder="Ingrese la calificación del estudiante">
+            <button id="btnAdd">Agregar estudiante</button>
+        </div>
+        <button id="btnCalcular">Calcular:</button>
+        <div class="form-group">
+            <label for="mean">Promedio de las calificaciones:</label>
+            <input type="text" id="mean" readonly placeholder="Promedio">
+            <label for="maxStudent">Nombre del estudiante con calificación más alta:</label>
+            <input type="text" id="maxStudent" readonly placeholder="Estudiante con calificación más alta">
+            <label for="minStudent">Nombre del estudiante con calificación más baja:</label>
+            <input type="text" id="minStudent" readonly placeholder="Estudiante con calificación más baja">
+        </div>
+    </div>
+    <script src="js/ejercicio15.js"></script>
+</body>
+</html>

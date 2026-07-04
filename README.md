@@ -1,6 +1,6 @@
 # Actividad 1
 
-Proyecto de ejercicios prácticos de HTML, CSS y JavaScript. Fui comprendiendo poco a poco como usar html, css y js, yendo desde algo super sencillo un html con Hola mundo, sin ocupar css o js, hasta ya algo mas complejo donde se manejo un evento o se aplicaron diversos estilos para mejorar la página visualmente.
+Proyecto de ejercicios prácticos de HTML, CSS y JavaScript. Fui comprendiendo poco a poco como usar html, css y js, yendo desde algo super sencillo un html con Hola mundo, sin ocupar css o js, hasta algo mas complejo donde se manejo un evento o se aplicaron diversos estilos para mejorar la página visualmente.
 
 ## Contenido
 
@@ -16,6 +16,11 @@ Proyecto de ejercicios prácticos de HTML, CSS y JavaScript. Fui comprendiendo p
 | 8 | Horario De Clases |
 | 9 | Formulario de Consulta |
 | 10 | Convertidor Celsius a Fahrenheit |
+| 11 | Convertidor KM a Millas |
+| 12 | Convertidor MXN a USD |
+| 13 | Validador de Edad |
+| 14 | Ordenamiento de Números |
+| 15 | Estudiantes |
 
 ## Estructura
 
